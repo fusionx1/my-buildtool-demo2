@@ -1,0 +1,14 @@
+uuid: c0e1d0a7-df48-4b70-bb18-3e5be3a3c0f7
+name: my-buildtool-demo2
+mail: paul.depaula@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
